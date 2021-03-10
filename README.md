@@ -2,7 +2,7 @@
 Instructions on how to use Bus Driver Diary App
 
 # Bus1
-![Bus Image](https://github.com/MarkBozinovic/BusReadMe/blob/master/bus.jpg)
+![Bus Image](https://github.com/MarkBozinovic/BusReadMe/blob/main/bus.jpg)
 <!---https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown--->
 <!---https://www.online-tech-tips.com/free-software-downloads/combine-text-files/--->
 <!---https://www.transdevmelbourne.com.au/news/latest-news/latest-news/media-release-first-victorian-built-electric-bus-to-hit-the-road/--->
