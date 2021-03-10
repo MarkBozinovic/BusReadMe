@@ -1,4 +1,4 @@
-# BusReadMe
+# Bus Read Me
 Instructions on how to use Bus Driver Diary App
 
 # Bus1
