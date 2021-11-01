@@ -1,15 +1,15 @@
-# Instructions on how to use Bus Driver Diary App
+# Instructions on how to use Transport Workers Diary App
 
-![Bus Image](https://github.com/MarkBozinovic/BusReadMe/blob/main/bus.jpg)
+<--![Bus Image](https://github.com/MarkBozinovic/BusReadMe/blob/main/bus.jpg)-->
 <!--https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github-->
 <!---https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown--->
 <!---https://www.online-tech-tips.com/free-software-downloads/combine-text-files/--->
 <!---https://www.transdevmelbourne.com.au/news/latest-news/latest-news/media-release-first-victorian-built-electric-bus-to-hit-the-road/--->
 
 
-# Bus Driver Shift Application
+# Transport Workers Shift Application
 In this project, data is stored on an android device for
-Bus Operators to record their shifts by date, day, shift number,
+Transport Vehicle Operators to record their shifts by date, day, shift number,
 the bus they drove and any associated notes.
 Shifts can be updated and deleted. The app requires
 the user to allow permission to store the file in 
