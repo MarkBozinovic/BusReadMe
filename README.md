@@ -10,11 +10,13 @@
 # Transport Workers Shift Application
 In this project, data is stored on an android device for
 Transport Vehicle Operators to record their shifts by date, day, shift number,
-the bus they drove and any associated notes.
+the vehicle number taht they drove and any associated notes.
 Shifts can be updated and deleted. The app requires
 the user to allow permission to store the file in 
 your mobile device in: Settings-> Apps-> Goto the App
-in this case "Bus1"-> Permissions-> allow.
+in this case "Transport Diary"-> Permissions-> allow.
+Or hold down on app icon, the goto "App info" (pop-up)->
+Permissions-> Storage-> Allow.
 Facets of Java Android programming used include
 SQLite, Text File commit and Data Manipulation
 
