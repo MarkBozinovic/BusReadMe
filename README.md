@@ -40,3 +40,7 @@ and then select the "DELETE" button.
 7. **Clear all fields** - if populated with any data and you want
 to simply clear the fields without deleting, changing or inserting
 and data, select the "CLEAR" button.
+8. **Archive File** - Commit record in SQLite Data base to a text file
+on device by selecting 3 dots (hamburger) at the top right hand side
+of the app. File saved in Documents folder on app. Note that data is 
+deleted from the database once continue is selected.
